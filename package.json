@@ -1,0 +1,29 @@
+{
+    "name": "js-1workspace-babel",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "",
+        "build": "babel src -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GromakMaxim/js-1workspace-babel.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GromakMaxim/js-1workspace-babel/issues"
+    },
+    "homepage": "https://github.com/GromakMaxim/js-1workspace-babel#readme",
+    "devDependencies": {
+        "@babel/cli": "^7.14.8",
+        "@babel/core": "^7.15.0",
+        "@babel/preset-env": "^7.15.0"
+    },
+    "dependencies": {
+        "core-js": "^3.16.0"
+    }
+}
